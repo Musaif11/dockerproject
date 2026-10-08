@@ -31,4 +31,3 @@ services:
       replicas: 3
     volumes:
       - /var/lib/loan
-~
